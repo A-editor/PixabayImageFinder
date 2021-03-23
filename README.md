@@ -1,6 +1,6 @@
 # PixabayImageFinder
 
-This app allows you to query Pixabay with a search term which will bring up a results screen.
+This app allows you to query Pixabay with a search term which will bring up a results screen displaying pictures which match your search term.
 
 Tapping on one of the pictures in the results screen will bring you to a new page where you can find a higher quality version of the picture
 as well as the name of its author and its associated tags.
