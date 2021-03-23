@@ -50,14 +50,15 @@ To bring up the virtual keyboard in the emulator, use cmd + k.
 This app allows you to query Pixabay with a search term which will bring up a results screen displaying pictures which match your search term. New pictures
 will progressively load as you swipe down the screen.
 
+[![Watch the demo video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7f26642e-d086-4929-a339-4d91255ede0b.gif?ClientID=vimeo-core-prod&Date=1616502035&Signature=fa8b9801ffca718903ab61fbd2a323cbcf56e4e7)](https://vimeo.com/527772311)
+
+[![Watch the demo video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5c895678-4b6e-4e5f-b7de-aac30077e6c8.gif?ClientID=vimeo-core-prod&Date=1616502592&Signature=beba507bf2c1a09bcad3717acf025fe9cfce811f)](https://vimeo.com/527772311)
+
 Tapping on one of the pictures in the results screen will bring you to a new page where you can find a higher quality version of the picture
 as well as the name of its author and its associated tags.
 
 Tapping on one of the tags will bring you to a new results page which was created with a new search based on the tag name.
 
-[![Watch the demo video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7f26642e-d086-4929-a339-4d91255ede0b.gif?ClientID=vimeo-core-prod&Date=1616502035&Signature=fa8b9801ffca718903ab61fbd2a323cbcf56e4e7)](https://vimeo.com/527772311)
-
-[![Watch the demo video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/5c895678-4b6e-4e5f-b7de-aac30077e6c8.gif?ClientID=vimeo-core-prod&Date=1616502592&Signature=beba507bf2c1a09bcad3717acf025fe9cfce811f)](https://vimeo.com/527772311)
 
 [![Watch the demo video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/17b84b36-f324-4618-985c-58391676e836.gif?ClientID=vimeo-core-prod&Date=1616502386&Signature=84bfcc237561d992b15ad9d6f256599b092c3f7b)](https://vimeo.com/527772311)
 
