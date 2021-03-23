@@ -8,7 +8,7 @@ as well as the name of its author and its associated tags.
 
 Tapping on one of the tags will bring you to a new results page which was created with a new search based on the tag name.
 
-[![Watch the demo video](http://g.recordit.co/fRBBDhKyis.gif)](https://vimeo.com/527772311)
+[![Watch the demo video](https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/7f26642e-d086-4929-a339-4d91255ede0b.gif?ClientID=vimeo-core-prod&Date=1616502035&Signature=fa8b9801ffca718903ab61fbd2a323cbcf56e4e7)](https://vimeo.com/527772311)
 
 
 
