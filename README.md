@@ -8,7 +8,7 @@ as well as the name of its author and its associated tags.
 
 Tapping on one of the tags will bring you to a new results page which was created with a new search based on the tag name.
 
-![Demo: https://vimeo.com/527772311]
+![Demo]: (https://vimeo.com/527772311)
 
 
 
