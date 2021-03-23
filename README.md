@@ -1,6 +1,7 @@
 # PixabayImageFinder
 
-This app allows you to query Pixabay with a search term which will bring up a results screen displaying pictures which match your search term.
+This app allows you to query Pixabay with a search term which will bring up a results screen displaying pictures which match your search term. New pictures
+will progressively load as you swipe down the screen.
 
 Tapping on one of the pictures in the results screen will bring you to a new page where you can find a higher quality version of the picture
 as well as the name of its author and its associated tags.
@@ -51,6 +52,8 @@ expo start --android
 ```
 
 in the Terminal to open your associated phone emulator on your computer, which will then begin building the app (this may take a few seconds).
+
+To bring up the virtual keyboard in the emulator, use cmd + k.
 
 
 
